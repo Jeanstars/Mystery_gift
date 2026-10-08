@@ -1,0 +1,4 @@
+Teste no emulador (opcional, so para desenvolvedores)
+Injeta a tela numa copia da ROM base e roda no mGBA (libmgba-dev) sem janela, apertando botoes e salvando capturas.
+Os caminhos nos scripts sao os da maquina onde foi feito; ajuste. As funcoes de Pokemon do CFRU sao trocadas por
+versoes simples (harness_stubs.c) porque a ROM base nao tem o formato de Pokemon do CFRU.

@@ -1,0 +1,137 @@
+#org @gText_MG_Title
+PRESENTE MISTERIOSO
+
+#org @gText_MG_Title_EN
+MYSTERY GIFT
+
+#org @gText_MG_Title_ES
+REGALO MISTERIOSO
+
+#org @gText_MG_Prompt
+Digite o código do presente
+
+#org @gText_MG_Prompt_EN
+Enter the gift code
+
+#org @gText_MG_Prompt_ES
+Escribe el código del regalo
+
+#org @gText_MG_Hint
+A: escolher   B: apagar   START: OK
+
+#org @gText_MG_Hint_EN
+A: select   B: erase   START: OK
+
+#org @gText_MG_Hint_ES
+A: elegir   B: borrar   START: OK
+
+#org @gText_MG_Invalid
+Código inválido!
+
+#org @gText_MG_Invalid_EN
+Invalid code!
+
+#org @gText_MG_Invalid_ES
+¡Código no válido!
+
+#org @gText_MG_Used
+Este presente já foi resgatado!
+
+#org @gText_MG_Used_EN
+This gift was already claimed!
+
+#org @gText_MG_Used_ES
+¡Este regalo ya fue canjeado!
+
+#org @gText_MG_Empty
+Digite um código primeiro!
+
+#org @gText_MG_Empty_EN
+Enter a code first!
+
+#org @gText_MG_Empty_ES
+¡Escribe un código primero!
+
+#org @gText_MG_NoRoom
+Sem espaço! Libere uma vaga no PC.
+
+#org @gText_MG_NoRoom_EN
+No room! Free a slot in the PC.
+
+#org @gText_MG_NoRoom_ES
+¡Sin espacio! Libera espacio en el PC.
+
+#org @gText_MG_Arrived1
+Um presente misterioso
+
+#org @gText_MG_Arrived1_EN
+A mysterious gift
+
+#org @gText_MG_Arrived1_ES
+Un regalo misterioso
+
+#org @gText_MG_Arrived2
+chegou para você!
+
+#org @gText_MG_Arrived2_EN
+has arrived for you!
+
+#org @gText_MG_Arrived2_ES
+¡llegó para ti!
+
+#org @gText_MG_Received
+Você recebeu 
+
+#org @gText_MG_Received_EN
+You received 
+
+#org @gText_MG_Received_ES
+Recibiste 
+
+#org @gText_MG_GoodLuck
+Cuide bem dele!
+
+#org @gText_MG_GoodLuck_EN
+Take good care of it!
+
+#org @gText_MG_GoodLuck_ES
+¡Cuídalo bien!
+
+#org @gText_MG_SentToPC
+Foi enviado para o PC.
+
+#org @gText_MG_SentToPC_EN
+It was sent to the PC.
+
+#org @gText_MG_SentToPC_ES
+Se envió al PC.
+
+#org @gText_MG_Bang
+!
+
+#org @gText_MG_KeyDel
+DEL
+
+#org @gText_MG_KeyOk
+OK
+
+#org @gText_MG_BagFull
+Mochila cheia! Libere espaço.
+
+#org @gText_MG_BagFull_EN
+Bag is full! Make some room.
+
+#org @gText_MG_BagFull_ES
+¡Mochila llena! Libera espacio.
+
+#org @gText_MG_StoredBag
+Guardado na mochila.
+
+#org @gText_MG_StoredBag_EN
+Stored in your bag.
+
+#org @gText_MG_StoredBag_ES
+Guardado en la mochila.
+
+#org @gText_MG_TimesX
+ x
